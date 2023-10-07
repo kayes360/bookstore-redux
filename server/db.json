@@ -1,0 +1,67 @@
+{
+  "books": [
+    {
+      "bookName": "1001 Arabian Nights",
+      "bookAuthor": "Sherzahde",
+      "bookImgURL": "https://m.media-amazon.com/images/I/51S2V4muf4L._SY445_SX342_.jpg",
+      "bookPrice": "319",
+      "bookRating": "4",
+      "bookFeatured": true,
+      "id": 1
+    },
+    {
+      "bookName": "Frankenstein",
+      "bookAuthor": "Merry Shelly",
+      "bookImgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCO9eLa3AkFiZ3kSxs24pFfM3TcmEq4yCbg&usqp=CAU",
+      "bookPrice": "268",
+      "bookRating": "5",
+      "bookFeatured": false,
+      "id": 2
+    },
+    {
+      "bookName": "The Strange Case Of Dr. Jekyll And Mr. Hyde",
+      "bookAuthor": "Robert Louis Stevenson",
+      "bookImgURL": "https://www.mysteriousbookshop.com/cdn/shop/products/JekyllHyde22_54aba330-6ce6-4cc5-93ab-667caace976c_1024x1024.jpg?v=1665606832",
+      "bookPrice": "361",
+      "bookRating": "",
+      "bookFeatured": true,
+      "id": 3
+    },
+    {
+      "bookName": "Metamorphosis ",
+      "bookAuthor": "Franz Kafka",
+      "bookImgURL": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ada37d0-fae5-40b0-a2da-9ef91fac5016_630x920.png",
+      "bookPrice": "615",
+      "bookRating": "1",
+      "bookFeatured": false,
+      "id": 4
+    },
+    {
+      "bookName": "Murdle: Volume 1 ",
+      "bookAuthor": "G T Karber ",
+      "bookImgURL": "https://m.media-amazon.com/images/I/71x5IAVFqXL._SY466_.jpg",
+      "bookPrice": "924",
+      "bookRating": "",
+      "bookFeatured": false,
+      "id": 5
+    },
+    {
+      "bookName": "Alice's Adventures in Wonderland",
+      "bookAuthor": "Lewis Carroll ",
+      "bookImgURL": "https://images.penguinrandomhouse.com/cover/9780147515872",
+      "bookPrice": "500",
+      "bookRating": "3",
+      "bookFeatured": false,
+      "id": 6
+    },
+    {
+      "bookName": "alifdfg",
+      "bookAuthor": "sherzadr",
+      "bookImgURL": "https://cdn.exoticindia.com/images/products/original/books-2019/ubg940.jpg",
+      "bookPrice": "20",
+      "bookRating": "1",
+      "bookFeatured": false,
+      "id": 7
+    }
+  ]
+}
